@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "tIt",
+    "tit"
+  ],
+  "key": {
+    "I": {
+      "item": "skeletonmod:skeleton_block"
+    },
+    "i": {
+      "item": "skeletonmod:skeleton_gem"
+    },
+     "t": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "skeletonmod:skeleton_excavator"
+  }
+}

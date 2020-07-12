@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "IiI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "skeletonmod:skeleton_ingot"
+    },
+    "i": {
+      "item": "skeletonmod:skeleton_gem"
+    }
+  },
+  "result": {
+    "item": "skeletonmod:skeleton_chestplate"
+  }
+}

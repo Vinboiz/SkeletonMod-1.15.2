@@ -1,0 +1,33 @@
+{
+	"item.skeletonmod.skeleton_ingot": "Skeleton Ingot",
+	"item.skeletonmod.skeleton_gem": "Skeleton Gem",
+	"item.skeletonmod.bone_marrow": "Bone Marrow",
+	"item.skeletonmod.bone_fire": "Bone Fire",
+	
+	"item.skeletonmod.skeleton_sword": "Skeleton Sword",
+	"item.skeletonmod.skeleton_pickaxe": "Skeleton Pickaxe",
+	"item.skeletonmod.skeleton_shovel": "Skeleton Shovel",
+	"item.skeletonmod.skeleton_axe": "Skeleton Axe",
+	"item.skeletonmod.skeleton_hoe": "Skeleton Hoe",
+	"item.skeletonmod.skeleton_tazor": "Skeleton Tazor",
+	
+	"item.skeletonmod.skeleton_helmet": "Skeleton Helmet",
+	"item.skeletonmod.skeleton_chestplate": "Skeleton Chestplate",
+	"item.skeletonmod.skeleton_leggings": "Skeleton Leggings",
+	"item.skeletonmod.skeleton_boots": "Skeleton Boots",
+	
+	"block.skeletonmod.skeleton_block": "Skeleton Block",
+	"block.skeletonmod.skeleton_ore": "Skeleton Ore",
+	"block.skeletonmod.skeleton_summoner": "Skeleton Summoner",
+	"block.skeletonmod.skeleton_excavator": "Skeleton Excavator",
+	"block.skeletonmod.dead_grass": "Dead Grass",
+	"block.skeletonmod.ancient_grass": "Ancient Grass",
+	
+	"block.skeletonmod.skeleton_button": "Skeleton Button",
+	"block.skeletonmod.skeleton_fence": "Skeleton Fence",
+	"block.skeletonmod.skeleton_pressure_plate": "Skeleton Pressure Plate",
+	"block.skeletonmod.skeleton_stairs": "Skeleton Stairs",
+	
+	
+	"itemGroup.skeletontab": "Skeleton Tab"
+}

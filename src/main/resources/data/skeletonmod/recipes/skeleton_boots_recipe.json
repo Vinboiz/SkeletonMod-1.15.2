@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "I I",
+    "   "
+  ],
+  "key": {
+    "I": {
+      "item": "skeletonmod:skeleton_ingot"
+    }
+  },
+  "result": {
+    "item": "skeletonmod:skeleton_boots"
+  }
+}

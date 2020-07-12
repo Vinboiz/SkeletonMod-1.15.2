@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "skeletonmod:block/skeleton_pressure_plate" },
+        "powered=true": { "model": "skeletonmod:block/skeleton_pressure_plate_down" }
+    }
+}

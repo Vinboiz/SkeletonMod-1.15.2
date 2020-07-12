@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "bottom": "skeletonmod:blocks/dead_dirt",
+        "top": "skeletonmod:blocks/dead_grass_top",
+        "all": "skeletonmod:blocks/dead_grass_side"
+         }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "skeletonmod:skeleton_block"
+    }
+  ],
+  "result": {
+    "item": "skeletonmod:skeleton_ingot",
+    "count": 9
+  }
+}

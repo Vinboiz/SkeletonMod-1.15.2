@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"skeletonmod:skeleton_block",
+		"minecraft:cactus"
+	]
+}

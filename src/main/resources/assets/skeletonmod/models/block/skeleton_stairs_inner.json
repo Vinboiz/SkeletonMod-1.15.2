@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "skeletonmod:blocks/skeleton_block",
+         "top": "skeletonmod:blocks/skeleton_block",
+        "side": "skeletonmod:blocks/skeleton_block"
+    }
+}

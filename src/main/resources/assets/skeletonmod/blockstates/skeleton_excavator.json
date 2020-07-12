@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "skeletonmod:block/skeleton_excavator" },
+        "facing=south": { "model": "skeletonmod:block/skeleton_excavator", "y": 180 },
+        "facing=west":  { "model": "skeletonmod:block/skeleton_excavator", "y": 270 },
+        "facing=east":  { "model": "skeletonmod:block/skeleton_excavator", "y": 90 }
+    }
+}

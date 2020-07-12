@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"skeletonmod:skeleton_ingot",
+		"skeletonmod:skeleton_gem"
+		"minecraft:bone"
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+          	{
+          		"function": "minecraft:apply_bonus",
+          		"enchantment": "minecraft:fortune",
+          		"parameters": {
+          			"probability": 70.6543
+        			}
+        		}
+        	],
+        	"name": "skeletonmod:skeleton_excavator"
+        }
+      ]
+    }
+  ]
+}
